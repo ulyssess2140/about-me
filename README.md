@@ -8,9 +8,9 @@ My school is [The High School of Telecommunication Arts and Technology](https://
 
 I am 15 years old and i love git 
 
----
-
 I git the satisfaction of doing git. git it? git...
+
+---
 
 
 #### _Schedule_: 

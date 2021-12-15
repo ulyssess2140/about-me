@@ -8,24 +8,26 @@ My school is [The High School of Telecommunication Arts and Technology](https://
 
 I am 15 years old and i love git. I git the satisfaction of doing git. git it? git...
 
-Schedule: 
+#### _Schedule_: 
 
-Algebra 2
+- Algebra 2
 
-Spanish 3
+- Spanish 3
 
-Global History
+- Global History
 
-Software Engineering Program
+- Software Engineering Program
 
-Chemistry
+- Chemistry
 
-Physical Education
+- Physical Education
 
-Lunch
+- Lunch
 
-English 3
+- English 3
 
+Extra:
 
-i have 2 cats and i am a cool guy
+- i have 2 cats 
+  - and i am a cool guy
 

@@ -19,7 +19,7 @@ I git the satisfaction of doing git. git it? git...
 
 - Spanish 3
 
-- Global History
+- English 3
 
 - Software Engineering Program
 
@@ -29,10 +29,10 @@ I git the satisfaction of doing git. git it? git...
 
 - Lunch
 
-- English 3
+- Global history 
 
 ##### Extra:
 
-- i have 2 cats 
+- i have 0 cats 
   - and i am a cool guy
 
